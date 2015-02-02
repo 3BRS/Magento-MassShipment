@@ -9,7 +9,7 @@ extensions aims to help in these cases.
 ## Usage
 
 The extension has no configuration options and only provides two new mass
-actions in the Orders grid (Sales -> Orders). Those are:
+actions in the Orders grid (Sales → Orders). Those are:
 
 * _Ship (no emails)_ – creates a shipment (containing all shippable order items)
   for every selected order
