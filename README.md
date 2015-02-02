@@ -1,4 +1,4 @@
-# [Keyup](http://www.keyup.eu/) Mass Shipment Extension for Magento
+# [Keyup][1] Mass Shipment Extension for Magento
 
 Mass Shipment is a simple extension for Magento that provides a mass action
 for shipping orders. This is not provided in Magento by default because specific
@@ -26,5 +26,7 @@ too.
 ## License
 
 The code is licensed under the MIT license. We'll appreciate if you
-[let us know](http://www.keyup.eu/en/contact) that (and how) you use this
-extension.
+[let us know][2] that (and how) you use this extension.
+
+[1]: http://www.keyup.eu/?utm_source=github&utm_medium=static&utm_campaign=mass_shipment
+[2]: http://www.keyup.eu/en/contact?utm_source=github&utm_medium=static&utm_campaign=mass_shipment
