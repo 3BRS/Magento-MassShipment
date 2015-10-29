@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<config>
+    <acl>
+        <resources>
+            <admin>
+                <children>
+                    <sales>
+                        <children>
+                            <keyup_massshipment translate="title" module="keyup_massshipment">
+                                <title>Keyup MassShipment</title>
+                                <sort_order>1000</sort_order>
+                            </keyup_massshipment>
+                        </children>
+                    </sales>
+                </children>
+            </admin>
+        </resources>
+    </acl>
+</config>
