@@ -111,4 +111,10 @@ class Keyup_MassShipment_Adminhtml_KeyupShipmentController extends Mage_Adminhtm
 
         $this->_redirect('adminhtml/sales_order/index');
     }
+    
+    protected function _isAllowed()
+    {
+        return Mage::getSingleton('admin/session')->isAllowed('sales/keyup_massshipment');
+    }
+
 }
