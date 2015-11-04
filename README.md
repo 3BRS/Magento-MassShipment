@@ -23,6 +23,12 @@ code is used, so it should work with both newer and older (at least back till
 1.7) Magento versions, and most possibly it will work with Magento Enterprise
 too.
 
+## Contributors
+
+* [Both Interact GmbH][100]
+* [febrez][101]
+* [Ray Foss][102]
+
 ## License
 
 The code is licensed under the MIT license. We'll appreciate if you
@@ -30,3 +36,6 @@ The code is licensed under the MIT license. We'll appreciate if you
 
 [1]: http://www.keyup.eu/?utm_source=github&utm_medium=static&utm_campaign=mass_shipment
 [2]: http://www.keyup.eu/en/contact?utm_source=github&utm_medium=static&utm_campaign=mass_shipment
+[100]: https://github.com/both-interact
+[101]: https://github.com/febrez
+[102]: https://github.com/Reyncor
