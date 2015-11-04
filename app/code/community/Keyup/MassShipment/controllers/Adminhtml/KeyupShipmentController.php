@@ -10,6 +10,24 @@
  * @license     http://www.opensource.org/licenses/mit-license.php MIT
  */
 class Keyup_MassShipment_Adminhtml_KeyupShipmentController extends Mage_Adminhtml_Controller_Action {
+    
+    /**
+     * Allow controller to be called by default.
+     * @return boolean
+     */
+    protected function _isAllowed() {
+        return true;
+    }
+    
+    /**
+     * TODO: Add ACL for actions.
+     * @param type $action
+     * @return type
+    protected function _isAllowedAction($action) {
+        return Mage::getSingleton('admin/session')->isAllowed(
+            'sales/order/' . $action
+        );
+    }*/
 
     /**
      * Create shipments for specified orders
